@@ -24,7 +24,8 @@
 }
 
 .centeredText {
-    background-color: #06135a;
+    /* background-color: #06135a; */
+    background-color: rgb(10, 30, 65);
     /* Color de fondo */
     color: white;
     /* Color del texto */
@@ -68,7 +69,8 @@
     margin-bottom: 5px;
     font-weight: bold;
     color: #ffffff;
-    background-color: #06135a;
+  /*   background-color: #06135a; */
+    background-color: rgb(10, 30, 65);
     padding: 5px;
     border-radius: 3px;
     width: auto;
@@ -85,7 +87,8 @@
 
 .loginForm button {
     padding: 10px;
-    background-color: #f11109;
+    /* background-color: #f11109; */
+    background-color: rgb(240, 60, 65);
     border: none;
     border-radius: 5px;
     color: white;
