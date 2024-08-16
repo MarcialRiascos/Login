@@ -99,7 +99,8 @@
 
 
 .loginForm button:hover {
-    background-color: #ffc400;
+    /* background-color: #ffc400; */
+    background-color: rgb(10, 30, 65);
 }
 
 
@@ -129,6 +130,6 @@
         /* Ajuste para dispositivos pequeños */
         font-size: 20px;
         /* Tamaño de texto ajustado para dispositivos pequeños */
-        left: 18%;
+        left: 17%;
     }
 }
