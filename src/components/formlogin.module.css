@@ -122,10 +122,10 @@
     }
 
     .centeredText {
-        top: calc(50% + 220px);
+        top: calc(50% + 120px);
         /* Ajuste para dispositivos pequeños */
         font-size: 20px;
         /* Tamaño de texto ajustado para dispositivos pequeños */
-        left: 22%;
+        left: 18%;
     }
 }
